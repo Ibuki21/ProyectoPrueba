@@ -17,3 +17,4 @@ public class Ejemplo1_Ventana {
 //2. ¿Qué ocurre visualmente si elimina la línea ventana.setVisible(true);?
 //Si se quita esa línea entonces ya no es posible ver la nueva ventana.
 
+// jorshan naco
